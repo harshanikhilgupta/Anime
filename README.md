@@ -6,4 +6,4 @@ This notebook has a few simple functions to use stylegan2s projection code to pr
 
 ## Staring Ipynb
 AnimeGneration.ipynb
-Run the above notebook in google colab to generate a new anime character :)
+Run this above notebook in google colab to generate a new anime character :)
